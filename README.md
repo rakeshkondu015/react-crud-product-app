@@ -91,14 +91,7 @@ json-server --watch db.json --port 2003
 ```
 http://localhost:2003/products
 ```
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of your project here (optional but recommended)*
-
----
+----
 
 ## 🎯 Learning Outcomes
 
